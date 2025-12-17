@@ -1,5 +1,5 @@
 import java.util.*;
-public class Fahernheat {
+public class Fahrenheit {
     public static void main(String[] args)
     {
         Scanner s=new Scanner(System.in);
@@ -8,3 +8,4 @@ public class Fahernheat {
         System.out.printf("%.2f",c);
     }
 }
+
